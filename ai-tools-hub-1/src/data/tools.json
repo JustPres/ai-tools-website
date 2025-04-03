@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tool 1",
+        "description": "A powerful AI tool for natural language processing.",
+        "image": "https://example.com/images/tool1.png",
+        "link": "https://example.com/tool1"
+    },
+    {
+        "name": "Tool 2",
+        "description": "An AI-driven image recognition tool that enhances visual data analysis.",
+        "image": "https://example.com/images/tool2.png",
+        "link": "https://example.com/tool2"
+    },
+    {
+        "name": "Tool 3",
+        "description": "A machine learning platform for predictive analytics.",
+        "image": "https://example.com/images/tool3.png",
+        "link": "https://example.com/tool3"
+    },
+    {
+        "name": "Tool 4",
+        "description": "An AI chatbot framework for building conversational agents.",
+        "image": "https://example.com/images/tool4.png",
+        "link": "https://example.com/tool4"
+    },
+    {
+        "name": "Tool 5",
+        "description": "A data visualization tool powered by AI algorithms.",
+        "image": "https://example.com/images/tool5.png",
+        "link": "https://example.com/tool5"
+    }
+]
